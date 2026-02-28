@@ -36,3 +36,9 @@
 .item-7 {
   background-color: green;
 }
+
+.holder {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
